@@ -1,0 +1,8 @@
+.app{
+  background-color: linear-gradient(#e66465, #9198e5);
+  color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
